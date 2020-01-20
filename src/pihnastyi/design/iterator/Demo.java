@@ -1,7 +1,6 @@
 package pihnastyi.design.iterator;
 
 import java.util.Arrays;
-import java.util.List;
 
 public class Demo {
 
